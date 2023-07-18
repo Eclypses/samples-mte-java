@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="MultiClientConsole/src"/>
+			<attribute name="module" value="true"/>
+			<attribute name="add-reads" value="MultiClientConsole=com.google.gson:MultiClientConsole=eclypses.ecdh"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/src/Samples-Website-Developer/samples-website-developer/java/MteMultipleClient/ehcache-3.9.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/src/Samples-Website-Developer/samples-website-developer/java/MteMultipleClient/slf4j-api-1.7.25.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/src/Samples-Website-Developer/samples-website-developer/java/MteMultipleClient/gson-2.8.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/src/Samples-Website-Developer/samples-website-developer/java/MteMultipleClient/slf4j-simple-1.7.25.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/src/website-docs-java-samples/website-docs-java-samples/mte-multiple-clients/MteMultipleClient/eclypses-ecdh-1.0.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
